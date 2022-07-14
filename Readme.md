@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I’m currently working as Technical Lead of blockchain development solutions & ecosystems for Financial Technology Tribe at Telkom Indonesia.
 - 🔬 I’m currently learning about <b>public blockchain, cryptocurrency, decentralized finance and decentralized applications.</b>
-- 📫 How to reach me: Email me at sukedynanra@gmail.com
+- 📫 How to reach me: Email me at abhinandan.prs@gmail.com
 <!--
 ---
 | <a href="https://github.com/abhinandan2905"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandan2905&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Abhinandan github stats" /></a> | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandan2905&layout=compact&theme=buefy&hide_border=true&langs_count=8&count_private=true" /></a> |
@@ -13,10 +13,10 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
+Name: Abhinandan Kumar
+Located_in: Patna, Bihar
 current_job: Full Stack Developer
-education:
+Education:
   [
     "Self-Taught Developer and Designer",
     "Master's in Electrical and Computer Engineering",
@@ -24,16 +24,14 @@ education:
   ]
 company: Soulber
 
-fields_of_interests:
+Fields_of_Interests:
   [
     "Web Development",
     "Data Science",
-    "Machine Learning",
     "UI/UX",
-    "Game Development",
     "DevOps",
   ]
-technical_background:
+Technical_Background:
   [
     "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
@@ -41,7 +39,7 @@ technical_background:
     "Intern - VLSI and FPGA Implementation",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
+Currently_Learning: ["Docker, Kubernetes and React Native"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 ```
