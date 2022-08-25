@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Abhinandan Kumar, A Frontend Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello Everyone! 👋🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+### I'm Abhinandan Kumar, A Frontend Developer
 
 - 👨🏻‍💻 I’m currently working as Frontend Developer at Sparls Foundation.
 - 🔬 I’m currently learning about <b>Azure, React, Javascript, Bootstrap.</b>
