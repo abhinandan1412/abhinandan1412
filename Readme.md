@@ -7,9 +7,6 @@
 ---
 | <a href="https://github.com/abhinandan2905"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandan2905&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Abhinandan github stats" /></a> | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandan2905&layout=compact&theme=buefy&hide_border=true&langs_count=8&count_private=true" /></a> |
 | ------------- | ------------- |
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
 ---
 -->
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
