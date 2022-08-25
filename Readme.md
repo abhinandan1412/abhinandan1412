@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Abhinandan Kumar, A Frontend Developer
 
-- 👨🏻‍💻 I’m currently working as Technical Lead of blockchain development solutions & ecosystems for Financial Technology Tribe at Telkom Indonesia.
-- 🔬 I’m currently learning about <b>public blockchain, cryptocurrency, decentralized finance and decentralized applications.</b>
+- 👨🏻‍💻 I’m currently working as Frontend Developer at Sparls Foundation.
+- 🔬 I’m currently learning about <b>Azure, React, Javascript, Bootstrap.</b>
 - 📫 How to reach me: Email me at abhinandan.prs@gmail.com
 <!--
 ---
@@ -15,7 +15,7 @@
 ```yaml
 Name: Abhinandan Kumar
 Located_in: Patna, Bihar
-current_job: Full Stack Developer
+current_job: Front End Developer
 Education:
   [
     "Self-Taught Developer and Designer",
@@ -73,6 +73,6 @@ hobbies: ["Exploring", "Cricket", "Chess"]
 * [IBM Blockchain Essential V2 Certified](https://www.credly.com/badges/fa7c9ce3-dc3a-441c-96b2-277387a5f9d5)
 * [IBM Blockchain Foundation Developer V2 Certified](https://www.credly.com/badges/3f046a2f-0701-4dd3-9ed6-eef01bfcc540/public_url)
 
-<a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandan2905&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true" alt="Abhinandan github stats" /></a>
+<a href="https://github.com/abhinandan2905"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandan2905&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true" alt="Abhinandan github stats" /></a>
 
 ---
