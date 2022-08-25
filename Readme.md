@@ -56,12 +56,7 @@ hobbies: ["Exploring", "Cricket", "Chess"]
 </p>
 
 ### Portofolio
-* [Blockchain Projects Development](https://github.com/Nanra/Nanra/blob/main/blockchain-dev.md) (*under construction)
-
-### Certificates
-* [Certified Blockchain Architecture](https://www.credential.net/9d1345a7-9116-4883-a664-1fad1e8fbc48#gs.3oeb87)
-* [IBM Blockchain Essential V2 Certified](https://www.credly.com/badges/fa7c9ce3-dc3a-441c-96b2-277387a5f9d5)
-* [IBM Blockchain Foundation Developer V2 Certified](https://www.credly.com/badges/3f046a2f-0701-4dd3-9ed6-eef01bfcc540/public_url)
+* https://delightful-grass-001374d10.1.azurestaticapps.net
 
 <a href="https://github.com/abhinandan2905"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandan2905&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true" alt="Abhinandan github stats" /></a>
 
