@@ -1,6 +1,6 @@
 ### Hello Everyone! 👋 I'm Abhinandan Kumar, A Frontend Developer
 
-- 👨🏻‍💻 I’m currently working as Frontend Developer at Sparls Foundation.
+- 👨🏻‍💻 I’m currently working as Frontend Developer at Sparks Foundation.
 - 🔬 I’m currently learning about <b>Azure, React, Javascript, Bootstrap.</b>
 - 📫 How to reach me: Email me at abhinandan.prs@gmail.com
 <!--
