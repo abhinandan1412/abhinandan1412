@@ -1,7 +1,6 @@
-### Hello Everyone! 👋 I'm Abhinandan Kumar, A Frontend Developer
+### Hello Everyone! 👋 I'm Abhinandan Kumar, A Software Developer
 
-- 👨🏻‍💻 I’m currently working as Frontend Developer at Sparks Foundation.
-- 🔬 I’m currently learning about <b>Azure, React, Javascript, Bootstrap.</b>
+- 🔬 I’m currently learning about <b> Full Stack, Azure, React, Javascript, Bootstrap.</b>
 - 📫 How to reach me: Email me at abhinandan.prs@gmail.com
 <!--
 ---
@@ -14,7 +13,6 @@
 ```yaml
 Name: Abhinandan Kumar
 Located_in: Patna, Bihar
-current_job: Front End Developer
 Education:
   [
     "Self-Taught Developer and Designer",
