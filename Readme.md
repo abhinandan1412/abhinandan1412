@@ -32,7 +32,7 @@ Technical_Background:
   ]
   
 Currently_Learning: ["React, Javascript, Bootstrap"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Exploring", "Cricket", "Chess"]
 ```
   
