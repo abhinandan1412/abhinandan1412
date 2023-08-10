@@ -51,10 +51,3 @@ hobbies: ["Exploring", "Cricket", "Chess"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
-
-### Portofolio
-* https://delightful-grass-001374d10.1.azurestaticapps.net
-
-<a href="https://github.com/abhinandan2905"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandan2905&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true" alt="Abhinandan github stats" /></a>
-
----
